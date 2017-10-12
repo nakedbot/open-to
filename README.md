@@ -1,4 +1,4 @@
-## Theme & Jekyll Set-Up Credits
+## Theme & Jekyll integration Credits
 
 Original README from HTML5 UP:
 
