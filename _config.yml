@@ -9,8 +9,8 @@
 title: Open In Order
 email:
 description: The Jekyll version of the Phantom theme by HTML5 UP.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http:openinorder.to" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://openinorder.to/" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
@@ -24,4 +24,5 @@ twitter_username: sparc_na
 markdown: kramdown
 
 # Layout settings
-home-link-in-menu: No
+home-link-in-menu: false #true or false
+front-page-posts: 6 #maximum number of posts to show on front page
