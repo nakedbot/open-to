@@ -10,7 +10,7 @@ author: null
 
 We want to hear how sharing scholarship more openly is making the world a better place. There are a few ways to do that!
 
-<div class="row" markdown="1">
+<div class="row">
   <div class="col-6" markdown="1">
 
     ## 1. Share an existing story with us
