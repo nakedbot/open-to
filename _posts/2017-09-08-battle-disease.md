@@ -9,17 +9,17 @@ class:       "style1"                               # config bg-color to post li
 
 ---
 
-# Challenge
+## Challenge
 
 Each year, about 200 million people get sick with malaria, and about 600,000 people die from the infection—most of them young children[1]. The quest for new malaria therapeutics is a pressing ongoing public health issue. It’s particularly challenging, as the aggressive malaria parasite becomes drug resistant extremely quickly.
 
-# Solution
+## Solution
 
 The Open Source Malaria Consortium invites scientists from around the around to freely share their research on anti-malaria drugs through a transparent, online platform. The hope is to accelerate discovery of new drug candidates to be entered into pre-clinical development. All data and ideas are shared openly. There are no patents.
 
 In 2011, Matt Todd, an Associate Professor of Chemistry at The University of Sydney in Australia, helped create the collaborative project which uses open access to laboratory notebooks and social media notifications to allow participants to keep up on each other’s findings in real time as they work on new molecules. This nimble network of contributors includes senior scientists with pharmaceutical companies, retired researchers, chemists, and students from high school through post-doc.
 
-# Impact
+## Impact
 
 Since its launch, the Open Source Malaria Consortium has attracted more than a hundred contributors who post their drug discovery and development findings, discuss their work, and build on each other’s ideas for potential cures. The project serves as a repository of projects so researchers can see what molecules have and have not proven promising. All information is machine discoverable so others can locate the work and reuse the data.
 
