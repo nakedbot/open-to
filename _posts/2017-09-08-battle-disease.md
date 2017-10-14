@@ -4,6 +4,9 @@ title: Battle Disease
 description: Open Source Malaria Consortium
 image: assets/images/pic03.jpg
 permalink: /battle-disease/
+list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1..6)
+class:       "style1"                               # config bg-color to post list card (1..6)
+
 ---
 
 # Challenge
