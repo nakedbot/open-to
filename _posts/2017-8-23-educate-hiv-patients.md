@@ -8,5 +8,5 @@ redirect_to:
  - https://www.opensocietyfoundations.org/voices/osi-stories-open-access-scientific-research-sharing-information-saving-lives
 
 class:       "style5"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic05.jpg"       # config image to post list card (1..6)
 ---
+Read the full story at (here)[https://www.opensocietyfoundations.org/voices/osi-stories-open-access-scientific-research-sharing-information-saving-lives]
