@@ -6,6 +6,8 @@ author:       "Author" # not included in posts atm but can be added and used la
 categories:   jekyll update # not included in posts atm but can be added and used later
 tags:         tag1 tag2 # not included in posts atm but can be added and used later
 published:    false # switch to true when ready to publish
+permalink:          # sets the link for the post. E.g permalink: /battle-disease/
+redirect_to:        # sets a redirect link. Simple include the full, absolute link you want below
 
 # POSTS LIST on frontpage
 class:       "style1"                               # config bg-color to post list card (1 to 5)
