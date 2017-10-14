@@ -40,17 +40,17 @@
 // Palette taken from https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
 // Palette.
 	$palette: (
-		bg:					#ffffff, // not changed
-		bg-accent:			#333333, // not changed
-		bg-alt:				#f6f6f6, // not changed
+		bg:					#ffffff, // not changed, just white
+		bg-accent:			#333333, // not changed, just black
+		bg-alt:				#f6f6f6, // not changed, just white / grey
 		fg:					#585858, // used as text color througout
-		fg-accent:			#ffffff, // not changed
-		border:				#c9c9c9, // not changed
+		fg-accent:			#ffffff, // not changed, just white
+		border:				#c9c9c9, // not changed, just grey
 		border-bg:			rgba(144,144,144,0.075),
-		accent1:			#D92C35, // used as main link color
+		accent1:			#D92C35, // used as main link color & general accent
 		accent2:			#254441, // changed to https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
 		accent3:			#FF6F59, // changed to https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
 		accent4:			#43AA8B, // changed to https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
 		accent5:			#B2B09B, // changed to https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
-		accent6:			#8499e7, // not changed
+		accent6:			#FF6F59, // repeat of 3, as there are no extra colors in the pallet.
 	);
