@@ -8,8 +8,25 @@ image: null
 author: null
 ---
 
-<form method="POST" action="http://formspree.io/joseph.mcarthur.10@gmail.com">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send</button>
-</form>
+We want to hear how sharing scholarship more openly is making the world a better place. There are a few ways to do that!
+
+<div class="row" markdown="1">
+  <div class="col-6" markdown="1">
+
+    ## Share an existing story with us
+
+    Please note, not all links will be posted and may take some time to appear on the site as we're only a small team.
+
+    ## Write a story
+
+    Or, contribute a pull request on Github, if you feel comfortable with that.
+
+  </div>
+  <div class="col-6">
+    <form method="POST" action="http://formspree.io/joe@sparcopen.org">
+      <input type="email" name="email" placeholder="Your email">
+      <textarea name="message" placeholder="Give us a link"></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </div>
+</div>
