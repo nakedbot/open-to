@@ -19,6 +19,9 @@ description: >                                      # config description to post
 # POST HEADER in this post
 header-image: "/assets/images/pic13.jpg"            # config image to post header
 alt-image:    "image description welcome to jekyll" # config image description to alt att.
+
+# All posts image
+# all-posts-image: # an image for use on all posts
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
