@@ -41,7 +41,10 @@
 		.half:nth-last-child(2) {
 			margin-bottom: 0;
 		}
-
+		.quarter {
+			width: calc(25% + #{_size(field-gutter) * 0.75}) !important;
+			padding-left: _size(field-gutter);
+		}
 		.actions {
 			position: relative;
 			clear: both;
