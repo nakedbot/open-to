@@ -18,7 +18,7 @@ If you want someone else to have full access to editing, we give them access on 
   * Decide a title, description & slug
   * Find an image to appear on the frontpage & put it [here](https://github.com/sparcopen/open-to/tree/master/assets/images)
   * Go [here](https://github.com/sparcopen/open-to/tree/master/_posts) and make a new file (this can be done locally or via the web UI on that page). Draft posts can be signalled in the file so that they don't go onto the site.
-  * Follow [this template](https://github.com/sparcopen/open-to/blob/master/_posts/2016-04-10-test-post-g.md). A post can be put in plain HTML or Markdown (in most cases the edits required here would be easy & fast, e.g replacing links or putting in a few headers, often what you'd need to do in other programs anyway).
+  * Follow [this template](https://github.com/sparcopen/open-to/blob/master/_posts/2016-04-10-welcome-to-jekyll.markdown). A post can be put in plain HTML or Markdown (in most cases the edits required here would be easy & fast, e.g replacing links or putting in a few headers, often what you'd need to do in other programs anyway).
   * "commit" the file, with either .md or .html depending on whatever language you used.
 
 ## Theme & Jekyll integration Credits
