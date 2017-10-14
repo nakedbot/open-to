@@ -7,5 +7,3 @@ description: null
 image: null
 author: null
 ---
-
-# All posts
