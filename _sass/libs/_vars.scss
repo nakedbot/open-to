@@ -37,7 +37,7 @@
 		letter-spacing:		0.35em,
 		letter-spacing-alt:	-0.035em
 	);
-// Colors
+// Palette taken from https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
 // Palette.
 	$palette: (
 		bg:					#ffffff, // not changed
@@ -48,9 +48,9 @@
 		border:				#c9c9c9, // not changed
 		border-bg:			rgba(144,144,144,0.075),
 		accent1:			#D92C35, // used as main link color
-		accent2:			#7ecaf6, // not changed
-		accent3:			#7bd0c1, // not changed
-		accent4:			#c75b9b, // not changed
-		accent5:			#ae85ca, // not changed
+		accent2:			#254441, // changed to https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
+		accent3:			#FF6F59, // changed to https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
+		accent4:			#43AA8B, // changed to https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
+		accent5:			#B2B09B, // changed to https://coolors.co/ff6f59-254441-d92c35-43aa8b-b2b09b
 		accent6:			#8499e7, // not changed
 	);
