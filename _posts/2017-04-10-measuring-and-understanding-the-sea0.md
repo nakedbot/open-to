@@ -21,7 +21,7 @@ alt-image:    "image description welcome to jekyll" # config image description t
 # All posts image
 # all-posts-image: # an image for use on all posts
 ---
-<iframe width="560" src="https://www.youtube.com/embed/GmGcfZnsyqo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GmGcfZnsyqo" frameborder="0" allowfullscreen></iframe>
 
 At a time when research shows 20,000 land and sea species to be directly threatened with extinction, marine ecologists are concerned they haven’t inventoried a vast number of oceanic species. Without this hard data, scientific knowledge and the potential effectiveness of conservation efforts are diminished. Dr. Mark Costello manages the World Register of Marine Species (WoRMS), the largest real-time collaboration of species (taxonomic) experts and marine biologists in the world. Their work completed the naming of more than 200,000 known species, adding up to 2,000 new species every year. WoRMS is now the international standard for marine species nomenclature and is relied upon by a large number of institutions.  In addition, a collection of Open Access articles specifically utilized the WoRMs Register.
 
