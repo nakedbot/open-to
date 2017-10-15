@@ -10,14 +10,13 @@ permalink:    /turn-flickr-into-a-telescope/      # sets the link for the post. 
 redirect_to:        # sets a redirect link. Simple include the full, absolute link you want below
 
 # POSTS LIST on frontpage
-class:       "style2"                               # config bg-color to post list card (1 to 5)
+class:       "style1"                               # config bg-color to post list card (1 to 5)
 list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
-description: >                                      # config
-Researchers turned images on Flickr into a truely extraordinary image of a comets path.
+description: Researchers turned images on Flickr into a truely extraordinary image of a comets path.
 
 # POST HEADER in this post
-header-image: "/assets/images/sea.jpg"            # config image to post header
-alt-image:    "image description welcome to jekyll" # config image description to alt att.
+header-image:            # config image to post header
+alt-image:  # config image description to alt att.
 
 # All posts image
 # all-posts-image: # an image for use on all posts

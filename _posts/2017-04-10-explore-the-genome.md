@@ -10,14 +10,13 @@ permalink:    /explore-the-genome/      # sets the link for the post. E.g permal
 redirect_to:        # sets a redirect link. Simple include the full, absolute link you want below
 
 # POSTS LIST on frontpage
-class:       "style2"                               # config bg-color to post list card (1 to 5)
+class:       "style4"                               # config bg-color to post list card (1 to 5)
 list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
-description: >                                      # config
-The human genome is open to anyone to build a business, or find a new insight. The impact has been huge.
+description: The human genome is open to anyone to build a business, or find a new insight. The impact has been huge.
 
 # POST HEADER in this post
-header-image: "/assets/images/sea.jpg"            # config image to post header
-alt-image:    "image description welcome to jekyll" # config image description to alt att.
+header-image:             # config image to post header
+alt-image:   # config image description to alt att.
 
 # All posts image
 # all-posts-image: # an image for use on all posts
@@ -48,4 +47,4 @@ The Human Genome Project exemplifies the profound benefit Open Data can provide 
 Thanks to Elliot Maxwell, a Bethesda, Maryland-based business, technology and public policy consultant on issues of openness; and Heidi Williams of MIT.
 
 Originally posted at:
-(https://sparcopen.org/impact-story/human-genome-project/)[https://sparcopen.org/impact-story/human-genome-project/]. Content not included under our site licence. 
+(https://sparcopen.org/impact-story/human-genome-project/)[https://sparcopen.org/impact-story/human-genome-project/]. Content not included under our site licence.

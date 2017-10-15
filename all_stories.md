@@ -1,9 +1,10 @@
 ---
 layout: all_posts
-title: All posts
-landing-title: 'All posts'
+title: All stories
+landing-title: 'All stories'
 nav-menu: false
 description: null
 image: null
 author: null
+published: false
 ---

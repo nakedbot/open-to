@@ -12,9 +12,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 # POSTS LIST on frontpage
 class:       "style1"                               # config bg-color to post list card (1 to 5)
 list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
-description: >                                      # config description to post list card
-  Sed nisl arcu euismod sit amet nisi
-  lorem etiam dolor veroeros et feugiat.
+description: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat. # description for cards
 
 # POST HEADER in this post
 header-image: "/assets/images/pic13.jpg"            # config image to post header
@@ -23,7 +21,7 @@ alt-image:    "image description welcome to jekyll" # config image description t
 # All posts image
 # all-posts-image: # an image for use on all posts
 ---
-// your post text goes below 
+// your post text goes below
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

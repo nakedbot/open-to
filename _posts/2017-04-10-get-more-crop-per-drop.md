@@ -12,11 +12,10 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 # POSTS LIST on frontpage
 class:       "style2"                               # config bg-color to post list card (1 to 5)
 list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
-description: >                                      # config
-A data portal is collecting and analysing satellite information to improve land and water productivity and boost the sustainability of agricultural systems
+description: A data portal is collecting and analysing satellite information to improve land and water productivity and boost the sustainability of agricultural systems
 # POST HEADER in this post
-header-image: "/assets/images/sea.jpg"            # config image to post header
-alt-image:    "image description welcome to jekyll" # config image description to alt att.
+header-image:        # config image to post header
+alt-image:    # config image description to alt att.
 
 # All posts image
 # all-posts-image: # an image for use on all posts

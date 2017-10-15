@@ -12,8 +12,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 # POSTS LIST on frontpage
 class:       "style2"                               # config bg-color to post list card (1 to 5)
 list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
-description: >                                      # config
-Researchers used freely available data to make the case for ecotourism as a sound conservation policy
+description: Researchers used freely available data to make the case for ecotourism as a sound conservation policy
 
 # POST HEADER in this post
 header-image: "/assets/images/sea.jpg"            # config image to post header
@@ -26,4 +25,4 @@ alt-image:    "image description welcome to jekyll" # config image description t
 
 An obstacle hindering the efforts to make the case for ecotourism as a sound conservation policy is the lack of dollar value put on protected species by  policymakers and the public, especially in low- and middle income countries. Ralf Buckley and his team from the International Centre for Ecotourism Research in Queensland, Australia developed an innovative method for calculating the value of ecotourism for endangered animals, based on freely available data from the International Union for Conservation of Nature (IUCN). Calculations applied by Buckley’s team to endangered mammals, birds and frogs across the world, were published in Open Access publications in order to help publicly funded nature preserves make the most of their resources to protect and expand protected areas.
 
-Originally posted at: (http://asap.plos.org/finalists/calculating-ecotourism-impact/)[http://asap.plos.org/finalists/calculating-ecotourism-impact/]. Content not included under our site licence. 
+Originally posted at: (http://asap.plos.org/finalists/calculating-ecotourism-impact/)[http://asap.plos.org/finalists/calculating-ecotourism-impact/]. Content not included under our site licence.
