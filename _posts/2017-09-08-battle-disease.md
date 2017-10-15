@@ -36,4 +36,4 @@ While malaria is the current focus, the consortium model could easily be replica
 Image Credit:
 <a href="https://www.flickr.com/photos/niaid/6045737232">“Malaria Fermenter”</a> by<i> <a href="https://www.flickr.com/people/niaid/">NIAID</a></i> is licensed under <a href="https://creativecommons.org/licenses/by/2.0">
 CC BY 2.0</a>.
-Originally posted at: (https://sparcopen.org/impact-story/open-source-malaria-consortium/)[https://sparcopen.org/impact-story/open-source-malaria-consortium/]. Content not included under our site licence.
+Originally posted at: [https://sparcopen.org/impact-story/open-source-malaria-consortium/](https://sparcopen.org/impact-story/open-source-malaria-consortium/). Content not included under our site licence.

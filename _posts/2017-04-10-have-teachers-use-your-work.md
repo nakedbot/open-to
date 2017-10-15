@@ -24,4 +24,4 @@ alt-image:  # config image description to alt att.
 
 Many aspects critical to understanding science, experiments and the natural world can only be described in words and diagrams in a limited way. Good quality multimedia can help make that understanding easier. Daniel Mietchen and his group accessed articles in PubMed Central to help them create the Open Access Media Importer (OAMI), a bot that can scrape and download supplementary multimedia files from Open Access science articles, repositories and data stores.  The bot has uploaded more than 13,000 files to Wikimedia Commons and has been used in more than 135 English Wikipedia articles that together garnered more than three million views.
 
-Originally posted at: (http://asap.plos.org/finalists/smartphone-becomes-microscope/)[http://asap.plos.org/finalists/smartphone-becomes-microscope/].
+Originally posted at: [http://asap.plos.org/finalists/smartphone-becomes-microscope/](http://asap.plos.org/finalists/smartphone-becomes-microscope/).

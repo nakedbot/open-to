@@ -22,4 +22,4 @@ alt-image:   # config image description to alt att.
 # All posts image
 # all-posts-image: # an image for use on all posts
 ---
-Read the full story (here)[https://www.thecommonsjournal.org/articles/10.18352/ijc.147/].
+Read the full story [here](https://www.thecommonsjournal.org/articles/10.18352/ijc.147/).

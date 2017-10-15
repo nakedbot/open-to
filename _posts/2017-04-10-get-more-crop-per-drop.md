@@ -20,4 +20,4 @@ alt-image:    # config image description to alt att.
 # All posts image
 # all-posts-image: # an image for use on all posts
 ---
-Read the full story (here)[http://aims.fao.org/activity/events/open-access-database-will-help-water-scarce-countries-get-more-crop-drop].
+Read the full story [here](http://aims.fao.org/activity/events/open-access-database-will-help-water-scarce-countries-get-more-crop-drop).
