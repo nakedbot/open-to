@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Battle Disease
+title: Battle Malaria
 description: Open Source Malaria Consortium
 image: assets/images/pic03.jpg
-permalink: /battle-disease/
+permalink: /battle-malaria/
 list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1..6)
 class:       "style1"                               # config bg-color to post list card (1..6)
 header-image: "/assets/images/battle_disease.jpg"            # config image to post header
 
 ---
-
 ## Challenge
 
 Each year, about 200 million people get sick with malaria, and about 600,000 people die from the infection—most of them young children[1]. The quest for new malaria therapeutics is a pressing ongoing public health issue. It’s particularly challenging, as the aggressive malaria parasite becomes drug resistant extremely quickly.
@@ -33,3 +32,8 @@ While malaria is the current focus, the consortium model could easily be replica
 “Our project is one part of an amazing campaign to promote Open Access and Open Data,” says Todd. “It’s so exciting to see gains being made and to demonstrate to people how much more productive and efficient research can be if you are open.”
 
 [1]: http://www.who.int/malaria/publications/world_malaria_report_2014/en/
+
+Image Credit:
+<a href="https://www.flickr.com/photos/niaid/6045737232">“Malaria Fermenter”</a> by<i> <a href="https://www.flickr.com/people/niaid/">NIAID</a></i> is licensed under <a href="https://creativecommons.org/licenses/by/2.0">
+CC BY 2.0</a>.
+Originally posted at: (https://sparcopen.org/impact-story/open-source-malaria-consortium/)[https://sparcopen.org/impact-story/open-source-malaria-consortium/]. Content not included under our site licence.

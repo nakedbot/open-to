@@ -48,4 +48,4 @@ The Human Genome Project exemplifies the profound benefit Open Data can provide 
 Thanks to Elliot Maxwell, a Bethesda, Maryland-based business, technology and public policy consultant on issues of openness; and Heidi Williams of MIT.
 
 Originally posted at:
-https://sparcopen.org/impact-story/human-genome-project/
+(https://sparcopen.org/impact-story/human-genome-project/)[https://sparcopen.org/impact-story/human-genome-project/]. Content not included under our site licence. 

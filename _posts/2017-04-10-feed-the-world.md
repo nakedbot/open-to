@@ -14,7 +14,7 @@ class:       "style2"                               # config bg-color to post li
 list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: >                                      # config
 A global biological commons brings billions in value and more food on the table
-# cite: table 6. 
+# cite: table 6.
 
 # POST HEADER in this post
 header-image: "/assets/images/sea.jpg"            # config image to post header
@@ -23,3 +23,4 @@ alt-image:    "image description welcome to jekyll" # config image description t
 # All posts image
 # all-posts-image: # an image for use on all posts
 ---
+Read the full story (here)[https://www.thecommonsjournal.org/articles/10.18352/ijc.147/].

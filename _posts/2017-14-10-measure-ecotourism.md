@@ -26,4 +26,4 @@ alt-image:    "image description welcome to jekyll" # config image description t
 
 An obstacle hindering the efforts to make the case for ecotourism as a sound conservation policy is the lack of dollar value put on protected species by  policymakers and the public, especially in low- and middle income countries. Ralf Buckley and his team from the International Centre for Ecotourism Research in Queensland, Australia developed an innovative method for calculating the value of ecotourism for endangered animals, based on freely available data from the International Union for Conservation of Nature (IUCN). Calculations applied by Buckley’s team to endangered mammals, birds and frogs across the world, were published in Open Access publications in order to help publicly funded nature preserves make the most of their resources to protect and expand protected areas.
 
-Originally posted at: http://asap.plos.org/finalists/calculating-ecotourism-impact/.
+Originally posted at: (http://asap.plos.org/finalists/calculating-ecotourism-impact/)[http://asap.plos.org/finalists/calculating-ecotourism-impact/]. Content not included under our site licence. 
