@@ -15,8 +15,8 @@ list-image:  "/assets/images/pic01.jpg"             # config image to post list 
 description: An open database of more than 200,000 species helps save those directly threatened with extinction
 
 # POST HEADER in this post
-header-image:      # config image to post header
-alt-image:   # config image description to alt att.
+header-image: "/assets/images/sea.jpg"            # config image to post header
+alt-image:    "image description welcome to jekyll" # config image description to alt att.
 
 # All posts image
 # all-posts-image: # an image for use on all posts
