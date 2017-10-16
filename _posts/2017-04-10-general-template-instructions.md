@@ -2,6 +2,7 @@
 layout:       post # you'll rarely need to change this
 title:        "Welcome to Jekyll!"
 date:         2016-04-10 18:22:44 +0200
+weight:           # anything from 1-20 
 author:       "Author" # not included in posts atm but can be added and used later
 categories:   jekyll update # not included in posts atm but can be added and used later
 tags:         tag1 tag2 # not included in posts atm but can be added and used later

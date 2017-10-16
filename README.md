@@ -21,6 +21,11 @@ If you want someone else to have full access to editing, we give them access on 
   * Follow [this template](https://github.com/sparcopen/open-to/blob/master/_posts/2016-04-10-welcome-to-jekyll.markdown). A post can be put in plain HTML or Markdown (in most cases the edits required here would be easy & fast, e.g replacing links or putting in a few headers, often what you'd need to do in other programs anyway).
   * "commit" the file, with either .md or .html depending on whatever language you used.
 
+### Sorting posts on the front page and other feeds
+
+  * Every post needs a weight to show up on the front page. You can set this when you post, or whenever after you post.
+  * A post can have the same weight as another post. If it does, I'd guess that date matters (haven't tested this)
+
 ## Theme & Jekyll integration Credits
 
 Jekyll theme integration by [https://github.com/BCasal/Phantom-Jekyll-Theme](https://github.com/BCasal/Phantom-Jekyll-Theme).
