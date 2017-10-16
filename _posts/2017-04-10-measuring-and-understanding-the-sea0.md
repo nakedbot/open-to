@@ -11,7 +11,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 
 # POSTS LIST on frontpage
 class:       "style4"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+list-image:  "/assets/images/pic09.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: An open database of more than 200,000 species helps save those directly threatened with extinction
 
 # POST HEADER in this post

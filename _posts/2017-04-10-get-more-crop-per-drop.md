@@ -11,7 +11,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
    - http://aims.fao.org/activity/events/open-access-database-will-help-water-scarce-countries-get-more-crop-drop
 # POSTS LIST on frontpage
 class:       "style2"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+list-image:  "/assets/images/pic05.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: A data portal is collecting and analysing satellite information to improve land and water productivity and boost the sustainability of agricultural systems
 # POST HEADER in this post
 header-image:        # config image to post header

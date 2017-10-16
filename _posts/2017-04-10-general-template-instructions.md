@@ -2,7 +2,7 @@
 layout:       post # you'll rarely need to change this
 title:        "Welcome to Jekyll!"
 date:         2016-04-10 18:22:44 +0200
-weight:           # anything from 1-20 
+weight:           # anything from 1-20
 author:       "Author" # not included in posts atm but can be added and used later
 categories:   jekyll update # not included in posts atm but can be added and used later
 tags:         tag1 tag2 # not included in posts atm but can be added and used later
@@ -12,7 +12,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 
 # POSTS LIST on frontpage
 class:       "style1"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+list-image:  "/assets/images/pic04.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat. # description for cards
 
 # POST HEADER in this post

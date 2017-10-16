@@ -11,7 +11,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 
 # POSTS LIST on frontpage
 class:       "style1"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic01.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+list-image:  "/assets/images/pic10.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: Researchers turned images on Flickr into a truely extraordinary image of a comets path.
 
 # POST HEADER in this post
