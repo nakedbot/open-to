@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Educate HIV patients
+weight:       5
 description: Without the best information, “millions more will die.”
 image: assets/images/pic03.jpg
 permalink: /educate-hiv-patients/

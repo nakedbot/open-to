@@ -3,6 +3,7 @@ layout: post
 title: End Malaria
 description: Open Source Malaria Consortium
 image: assets/images/pic03.jpg
+weight:       5
 permalink: /end-malaria/
 list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1..6)
 class:       "style1"                               # config bg-color to post list card (1..6)
