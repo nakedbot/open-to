@@ -1,6 +1,6 @@
 ---
 layout:       post # you'll rarely need to change this
-title:        "Explore the Genome"
+title:        "Harness the Human Genome"
 date:         2017-10-14 18:22:44 +0200
 author:       "Author" # not included in posts atm but can be added and used later
 categories:   jekyll update # not included in posts atm but can be added and used later
