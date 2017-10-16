@@ -22,4 +22,4 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: false #true or false
-front-page-posts: 12 #maximum number of posts to show on front page
+front-page-posts: 24 #maximum number of posts to show on front page
