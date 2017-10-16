@@ -11,9 +11,7 @@ description:
 </header>
 <section class="tiles">
 
-{% for weight in (1..20) %}
   {% for post in site.posts %}
-    {% if post.weight == weight %}
       <article class="{{ post.class }}">
         <span class="image">
           <img src="{{ post.list-image | prepend: site.baseurl }}" alt="">
@@ -27,7 +25,5 @@ description:
         </a>
       </article>
     {% endfor %}
-  {% endfor %}
-{% endfor %}
 
 </section>
