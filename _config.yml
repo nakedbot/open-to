@@ -14,7 +14,7 @@ url: "" # the base hostname & protocol for your site PRODUCTION: http://openinor
 gems:
   - jekyll-redirect-from
 # Social settings
-github_username: sparcopen
+github_username: sparcopen/open-to
 twitter_username: sparc_na
 
 # Build settings
