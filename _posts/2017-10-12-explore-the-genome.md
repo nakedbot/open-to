@@ -26,7 +26,7 @@ alt-image:   # config image description to alt att.
 
 Scientists wanted to sequence and map all of the genes (known together as the genome) for the human species. The Human Genome Project was formed in order to facilitate understanding of the human genome, in hopes of applying this information to facilitate major scientific discoveries in the fields of medicine, biotechnology, and the life sciences. Traditionally, researchers have worked in labs behind closed doors, and findings were only shared in scientific journals, limiting their impact to only other academic scientists who had subscribed.
 
-## Solution
+## Solution
 
 Researchers with the Human Genome Project agreed that all new information they produced should be made freely available online within 24 hours of discovery. In a pivotal way, for the first time, the public had unrestricted access to the findings and data as it was being discovered and shared.
 

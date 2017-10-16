@@ -12,7 +12,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 
 # POSTS LIST on frontpage
 class:       "style5"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic13.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: 120 mathematicians, from school teachers to professors, took on a hard math challenge on a blog and solved it.
 # POST HEADER in this post
 header-image:           # config image to post header
