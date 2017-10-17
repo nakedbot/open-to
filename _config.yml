@@ -8,13 +8,22 @@
 # Site settings
 title: Open In Order To...
 email: Joe@sparcopen.org
-description: What can Open do for you?
+description: What concrete benefits can be realized by making scholarly outputs openly available?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://openinorder.to/" # the base hostname & protocol for your site PRODUCTION: http://openinorder.to/
+url: "https://openinorder.to/" # the base hostname & protocol for your site PRODUCTION: http://openinorder.to/
 gems:
   - jekyll-redirect-from
 plugins:
   - jekyll-seo-tag
+
+# SEO settings
+
+twitter:
+  username: sparc_na
+logo: "/favicon.ico" # site wide logo for use on social settings
+facebook:
+ publisher: sparcopen
+lang: en_US
 
 # Social settings
 github_username: sparcopen/open-to
