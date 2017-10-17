@@ -13,6 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://openinorder.to/" # the base hostname & protocol for your site PRODUCTION: http://openinorder.to/
 gems:
   - jekyll-redirect-from
+plugins:
+  - jekyll-seo-tag
+
 # Social settings
 github_username: sparcopen/open-to
 twitter_username: sparc_na
