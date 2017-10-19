@@ -1,6 +1,6 @@
 ---
 layout:       post # you'll rarely need to change this
-title:        "solve the hardest math challenges"
+title:        "Solve the Hardest Math Challenges"
 date:         2017-10-14 18:22:44 +0200
 weight:       5
 author:       "Author" # not included in posts atm but can be added and used later
