@@ -3,7 +3,7 @@ layout: post
 title: Find New Treatments For Malaria
 description: The Open Source Malaria Consortium uses open to advance the search for a cure to the disease.
 image: assets/images/pic03.jpg
-weight:       5
+weight:       3
 permalink: /find-new-treatments-for-malaria/
 list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1..6)
 class:       "style1"                               # config bg-color to post list card (1..6)
