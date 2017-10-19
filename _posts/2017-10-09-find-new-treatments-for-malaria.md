@@ -7,7 +7,7 @@ weight:       5
 permalink: /find-new-treatments-for-malaria/
 list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1..6)
 class:       "style1"                               # config bg-color to post list card (1..6)
-header-image: "/assets/images/battle_disease.jpg"            # config image to post header
+# header-image: "/assets/images/battle_disease.jpg"            # config image to post header
 
 ---
 ## Challenge
