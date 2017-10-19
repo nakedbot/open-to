@@ -13,7 +13,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 # POSTS LIST on frontpage
 class:       "style3"                               # config bg-color to post list card (1 to 5)
 list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
-description: The World Bank requires that research it funds be open in order to advance its mission.
+description: The World Bank requires that research it funds be open in order to advance its mission. Learn how.
 # cite: table 6.
 
 # POST HEADER in this post
