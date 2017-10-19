@@ -13,7 +13,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 # POSTS LIST on frontpage
 class:       "style4"                               # config bg-color to post list card (1 to 5)
 list-image:  "/assets/images/pic14.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
-description: The human genome is open to anyone to build a business, or find a new insight. The impact has been huge.
+description: With openness as a core tenet, the Human Genome Project has led to breakthroughs & better lives.
 
 # POST HEADER in this post
 header-image:             # config image to post header
