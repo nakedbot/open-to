@@ -23,4 +23,4 @@ alt-image:  # config image description to alt att.
 # all-posts-image: # an image for use on all posts
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hd-VXmm_XF8?start=1081" frameborder="0" allowfullscreen></iframe>
-(don't worry, it only takes a minute or two to watch)
+(Relevant section runs for 3 minutes, from 17:57 to 21:12)
