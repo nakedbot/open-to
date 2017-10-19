@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find New Treatments For Malaria
-description: Open Source Malaria Consortium
+description: The Open Source Malaria Consortium uses open to advance the search for a cure to the disease.
 image: assets/images/pic03.jpg
 weight:       5
 permalink: /find-new-treatments-for-malaria/
