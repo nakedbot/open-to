@@ -11,8 +11,8 @@ permalink:    /solve-the-hardest-math-challenges/      # sets the link for the p
 redirect_to:        # sets a redirect link. Simple include the full, absolute link you want below
 
 # POSTS LIST on frontpage
-class:       "style5"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+class:       "style2"                               # config bg-color to post list card (1 to 5)
+list-image:  "/assets/images/pic08.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: 120 mathematicians, from school teachers to professors, took on a hard math challenge in the open & solved it.
 # POST HEADER in this post
 header-image:           # config image to post header
