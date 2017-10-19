@@ -1,6 +1,6 @@
 ---
 layout:       post # you'll rarely need to change this
-title:        "Feed the World"
+title:        "Help Feed the World"
 date:         2017-10-16 18:22:44 +0200
 weight:       1
 author:       "Author" # not included in posts atm but can be added and used later
