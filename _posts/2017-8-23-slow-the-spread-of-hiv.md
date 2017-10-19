@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Educate HIV patients
+title: Slow the Spread of HIV
 weight:       5
 description: Without the best information, “millions more will die.”
 image: assets/images/pic03.jpg
-permalink: /educate-hiv-patients/
+permalink: /slow-the-spread-of-hiv/
 redirect_to:
  - https://www.opensocietyfoundations.org/voices/osi-stories-open-access-scientific-research-sharing-information-saving-lives
 
