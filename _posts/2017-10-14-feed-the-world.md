@@ -11,8 +11,8 @@ permalink:    /feed-the-world/      # sets the link for the post. E.g permalink:
 redirect_to:        # sets a redirect link. Simple include the full, absolute link you want below
   - https://www.thecommonsjournal.org/articles/10.18352/ijc.147/
 # POSTS LIST on frontpage
-class:       "style3"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+class:       "style4"                               # config bg-color to post list card (1 to 5)
+list-image:  "/assets/images/pic14.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: A global biological commons brings billions in value and more food to the table.
 # cite: table 6.
 
