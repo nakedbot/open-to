@@ -12,7 +12,7 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
    - https://elifesciences.org/articles/16800#s2
 # POSTS LIST on frontpage
 class:       "style2"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic05.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+list-image:  "/assets/images/pic08.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: Research that is shared openly is viewed more, cited earlier, and cited more often.
 header-image:        # config image to post header
 alt-image:    # config image description to alt att.
