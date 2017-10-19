@@ -11,8 +11,8 @@ permalink:    /leverage-ecotourism-to-support-conservation/      # sets the link
 redirect_to:        # sets a redirect link. Simple include the full, absolute link you want below
 
 # POSTS LIST on frontpage
-class:       "style1"                               # config bg-color to post list card (1 to 5)
-list-image:  "/assets/images/pic10.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
+class:       "style2"                               # config bg-color to post list card (1 to 5)
+list-image:  "/assets/images/pic08.jpg"             # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: Researchers used freely available data to make the case for ecotourism as a sound conservation policy
 
 # All posts image
