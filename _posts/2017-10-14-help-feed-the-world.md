@@ -4,8 +4,8 @@ title:        "Help Feed the World"
 date:         2017-10-16 18:22:44 +0200
 weight:       1
 author:       # not included in posts atm but can be added and used later
-categories:   jekyll update # not included in posts atm but can be added and used later
-tags:         tag1 tag2 # not included in posts atm but can be added and used later
+categories:    # not included in posts atm but can be added and used later
+tags:          # not included in posts atm but can be added and used later
 published:    true # switch to true when ready to publish. When false, you can check your links and share drafts using the github file for this page e.g https://github.com/sparcopen/open-to/blob/master/_posts/2017-04-10-welcome-to-jekyll.markdown
 permalink:    /feed-the-world/      # sets the link for the post. E.g permalink: /battle-disease/
 redirect_to:        # sets a redirect link. Simple include the full, absolute link you want below
