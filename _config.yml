@@ -16,7 +16,7 @@ gems:
 plugins:
   - jekyll-seo-tag
 
-# SEO settings
+# SEO settings. More info here https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 
 twitter:
   username: sparc_na
