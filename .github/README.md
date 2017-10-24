@@ -1,5 +1,9 @@
 # Open in order to
 
+## About
+
+“Open in order to…” serves as a prompt to move beyond talking about openness in itself and focus on what openness enables—in an individual discipline, at a particular institution, or in a specific context; then to take action to realize these benefits. This project tries to pull together the communities answers and stories. 
+
 ## Updating the site (for SPARC staff)
 
 ### User management:
