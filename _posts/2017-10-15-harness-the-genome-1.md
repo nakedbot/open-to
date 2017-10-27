@@ -1,6 +1,6 @@
 ---
 layout:       post # you'll rarely need to change this
-title:        "Harness the Human Genome"
+title:        "Unleash the Power of Text Mining"
 date:         2017-10-14 18:22:44 +0200
 weight:       10
 author:       # not included in posts atm but can be added and used later
