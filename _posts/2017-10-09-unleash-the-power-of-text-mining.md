@@ -13,7 +13,6 @@ redirect_to:        # sets a redirect link. Simple include the full, absolute li
 # POSTS LIST on frontpage
 list-image:  "/assets/images/pic1.jpg"             # config image to post list card (1..6)
 class:       "style3"                               # config bg-color to post list card (1 to 5)
-list-image:   # config image to post list card (1 to 15 are generic colors and will fit with anything used if no images can be found)
 description: Empowering researchers with the ability to mine the full text of journals promises to significantly accelerate research.
 
 # POST HEADER in this post
