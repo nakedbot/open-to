@@ -8,6 +8,7 @@ weight:       4
 permalink: /unleash-the-power-of-text-mining/ # link
 list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1..6)
 class:       "style1"                               # config bg-color to post list card (1..6)
+published: true
 # header-image:            # config image to post header
 
 ---
