@@ -22,30 +22,12 @@ alt-image:   # config image description to alt att.
 # All posts image
 # all-posts-image: # an image for use on all posts
 ---
-## Challenge
+In 2017, we have a great toolbox of informative methods to help us analyse large volumes of text. Sentiment analysis, topic modelling, and named entity recognition are to name but a few of these exciting approaches. Computational power and storage capacity are not the limiting factors on what we could do with the 100 million or so journal articles that comprise the ever-growing research literature so far. But the continued observance of 17th century limitations on how we can use research are simply jarring. Thanks to computers and the internet, we have the ability to do wonderful things, but the licensing and access-restrictions placed on most of the research literature explicitly and artificially prevent most of us from trying. As a result, few researchers bother thinking about using text mining techniques – it is often simpler and easier to just farm-out repetitive large-scale literature analysis tasks to an array of student minions and volunteers to do by-hand – even though computers could and perhaps should be doing these analyses for us.
 
-Scientists wanted to sequence and map all of the genes (known together as the genome) for the human species. The Human Genome Project was formed in order to facilitate understanding of the human genome, in hopes of applying this information to facilitate major scientific discoveries in the fields of medicine, biotechnology, and the life sciences. Traditionally, researchers have worked in labs behind closed doors, and findings were only shared in scientific journals, limiting their impact to only other academic scientists who had subscribed.
+Inadequate computational access to research has already caused us great harm. Just ask the Ministry of Health in Liberia: they were not pleased to discover, after a lethal Ebola virus outbreak, that vital knowledge locked-away in “forgotten papers” published in the 1980’s, clearly warned that the Ebola virus might be present in Liberia. This information wasn’t in the title, keywords, metadata, or abstract; it was completely hidden behind a paywall. Full text mining approaches would have easily found this buried knowledge and would have provided vital early warning that Ebola could come to Liberia, which might have prevented some deaths during the West African Ebola virus epidemic (2013–2016).    
 
-## Solution
+Some subscription-based publishers have been known to use ‘defence’ mechanisms such as ‘trap URLs’ that hinder text miners - making it even harder to do basic research. Whilst other subscription publishers like Royal Society Publishing are helpfully supportive to text miners, as are open access publishers. Hindawi for instance, allows anyone to download every single article they’ve ever published with a single mouse-click. Thanks to open licensing, aggregators like Europe PubMedCentral can bring together the outputs of many different OA publishers, making millions of articles available with a minimum of fuss. It is “no bullshit” access. You want it? You can have it all. No need to beg permission, to spend months negotiating and signing additional contracts, nor to use complicated publisher-controlled access APIs, and their associated restrictions. Furthermore, OA publishers typically provide highly structured full-text XML files which make it even easier for text miners. But only a small fraction of the research literature is openly-licensed open access. It’s for these reasons and more that many of the best text-mining researchers operate-on and enrich our understanding of open access papers-only e.g. Florez-Vargas et al 2016.
 
-Researchers with the Human Genome Project agreed that all new information they produced should be made freely available online within 24 hours of discovery. In a pivotal way, for the first time, the public had unrestricted access to the findings and data as it was being discovered and shared.
+So if I had but one wish this Christmas, it would be for the artificial, legally-imposed restrictions on the bulk download and analysis of research texts, to be unambiguously removed for everyone, worldwide – so that no researcher need fear imprisonment or other punitive action, simply for doing justified and ethical academic research. Unchain the literature, and we might be able to properly unleash and apply the collected knowledge of humanity.  
 
-## Impact
-
-In April 2003, the Human Genome Project was completed, presenting the world with the human genetic blueprint. Sequencing the human genome and making the data rapidly and broadly available led to a paradigm shift in the way science is conducted. The project created a living resource that provides the foundation for entire fields of cutting edge research, and paid deep dividends in a myriad of ways.
-
-To date, the Human Genome Project has already:
-
-Generated $965 billion in economic output between 1988 and 2012, creating more than $293 billion in personal income through wages and benefits, and nearly 4 million jobs (directly and indirectly);
-Led to the development of a number of DNA screening tests that provide early identification of risk factors of developing diseases such as colon cancer and breast cancer;
-Helped develop new diagnostic tools and technologies capable of quickly identifying diseases and infections;
-Facilitated scientific understanding of the role of genes in specific diseases, such as cancer, cystic fibrosis, and diabetes, as well as the effect mutations have on the creation and evolution of disease; and,
-Identified possible genetic linkages to disorders like autism, which help medical professionals understand disease origin and treatment more thoroughly.
-The project is widely regarded as a model for effective use of Open Data in the research process . The effort placed the groundbreaking information in the public domain and positioned the sharing of knowledge as a successful way of stimulating innovation. A study by MIT’s Heidi Williams found nearly 30% more genetic diagnostic tests emerged from sequenced genes that were always in the public domain, compared to genes that were temporarily withheld from the public with intellectual property rights after being sequenced by a private firm.
-
-The Human Genome Project exemplifies the profound benefit Open Data can provide by empowering more people with different perspectives to build on the cutting edge—advancing research itself and speeding the translation of research into innovations that save lives and create new industries.
-
-Thanks to Elliot Maxwell, a Bethesda, Maryland-based business, technology and public policy consultant on issues of openness; and Heidi Williams of MIT.
-
-Originally posted at:
-[https://sparcopen.org/impact-story/human-genome-project/](https://sparcopen.org/impact-story/human-genome-project/). Content not included under our site licence.
+This post was written by Ross Mounce and originally posted [here](http://rossmounce.co.uk/2017/10/23/open-in-order-to-unleash-the-power-of-text-mining).
