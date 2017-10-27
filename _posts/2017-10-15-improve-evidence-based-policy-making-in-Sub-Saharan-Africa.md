@@ -38,3 +38,5 @@ After the training, some of the participants give their testimony about how the 
 
 Therefore, the training was able to leverage the knowledge of researchers on what a reproducible research is and raise their awareness on common academic research misconducts allowing them to produce reliable, trustable and publishable research outputs to guide policy making. Therefore, open research data in Sub Saharan Africa through the adoption of transparent and open academic behavior could be used to enhance the credibility of findings for evidence based policy making.
 
+This post was written by Soazic Elise WANG SONNE who is currently a visiting scholar at the UC Berkeley Initiative for Transparency in the Social Sciences (BITSS).
+
