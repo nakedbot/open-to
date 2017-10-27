@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Unleash the Power of Text Mining
-date:         2017-10-15 18:22:44 +0200
+date: 2017-10-15 18:22:44 +0200
 description: Empowering researchers with the ability to mine the full text of journals promises to significantly accelerate research.
-weight:       4
+weight: 4
 permalink: /unleash-the-power-of-text-mining/ # link
-list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1..6)
-class:       "style1"                               # config bg-color to post list card (1..6)
+list-image: "/assets/images/pic2.jpg"             # config image to post list card (1..6)
+class: "style1"                               # config bg-color to post list card (1..6)
 published: true # is is live?
-
 ---
 In 2017, we have a great toolbox of informative methods to help us analyse large volumes of text. Sentiment analysis, topic modelling, and named entity recognition are to name but a few of these exciting approaches. Computational power and storage capacity are not the limiting factors on what we could do with the 100 million or so journal articles that comprise the ever-growing research literature so far. But the continued observance of 17th century limitations on how we can use research are simply jarring. Thanks to computers and the internet, we have the ability to do wonderful things, but the licensing and access-restrictions placed on most of the research literature explicitly and artificially prevent most of us from trying. As a result, few researchers bother thinking about using text mining techniques – it is often simpler and easier to just farm-out repetitive large-scale literature analysis tasks to an array of student minions and volunteers to do by-hand – even though computers could and perhaps should be doing these analyses for us.
 

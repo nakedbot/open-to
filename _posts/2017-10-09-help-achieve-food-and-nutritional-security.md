@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Help Achieve Food & Nutritional Security
-date:         2017-10-15 18:22:44 +0200
+date: 2017-10-15 18:22:44 +0200
 description: Opening up agricultural research will help achieve UN Sustainable Development Goals related to poverty & hunger.
 image: assets/images/pic03.jpg
-weight:       4
-permalink: /help-achieve-food-and-nutritional-security/   # link
-list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1..6)
-class:       "style1"                               # config bg-color to post list card (1..6)
-# header-image:            # config image to post header
-
+weight: 4
+permalink: /help-achieve-food-and-nutritional-security/ # link
+list-image: "/assets/images/pic5.jpg"             # config image to post list card (1..6)
+class: "style1"                               # config bg-color to post list card (1..6)
+published: true # is is live?
 ---
 
 Agriculture is the principal component of the 2030 agenda for sustainable development and is directly or indirectly linked to all the 17 sustainable development goals (SDGs).
