@@ -5,7 +5,7 @@ date:         2017-10-15 18:22:44 +0200
 description: Empowering researchers with the ability to mine the full text of journals promises to significantly accelerate research.
 image: assets/images/pic03.jpg
 weight:       4
-permalink: /unleash-the-power-of-text-mining/   # link
+permalink: /unleash-the-power-of-text-mining/ # link
 list-image:  "/assets/images/pic12.jpg"             # config image to post list card (1..6)
 class:       "style1"                               # config bg-color to post list card (1..6)
 # header-image:            # config image to post header
